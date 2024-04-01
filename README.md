@@ -26,7 +26,7 @@
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/kingjux)
 <b>Version -> 2.0.0</b>
  
-# Venocyber x whatsapp bot is,
+# Venocyber mdV2 whatsapp bot is,
 
       Venocyber mdV2 whatsapp bot is an easy to use whatsapp robot.   |  Venocyber x whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
@@ -38,7 +38,7 @@
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://venocyberxqr-6a1c9e0c259c.herokuapp.com/)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://venocyberv2pairer-65ebc2ac9dc9.herokuapp.com/qr)
 
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 
